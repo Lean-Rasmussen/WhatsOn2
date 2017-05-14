@@ -1,0 +1,23 @@
+{
+  "name": "whatson",
+  "version": "1.0.0",
+  "description": "Gathere of online streaming services",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lean-Rasmussen/WhatsOn2.git"
+  },
+  "keywords": [
+    "Twitch",
+    "streaming"
+  ],
+  "author": "Lean M Rasmussen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lean-Rasmussen/WhatsOn2/issues"
+  },
+  "homepage": "https://github.com/Lean-Rasmussen/WhatsOn2#readme"
+}
