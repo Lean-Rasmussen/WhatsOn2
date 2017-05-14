@@ -4,7 +4,8 @@
   "description": "Gathere of online streaming services",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server ./index.js"
   },
   "repository": {
     "type": "git",
@@ -19,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/Lean-Rasmussen/WhatsOn2/issues"
   },
-  "homepage": "https://github.com/Lean-Rasmussen/WhatsOn2#readme"
+  "homepage": "https://github.com/Lean-Rasmussen/WhatsOn2#readme",
+  "dependencies": {
+    "webpack": "^2.5.1",
+    "webpack-dev-server": "^2.4.5"
+  }
 }
